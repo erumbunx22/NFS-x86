@@ -2,7 +2,7 @@
 
 ## Steps
 
-* Clone the repo (DO NOT FORK!)
+* Clone the repo (DO NOT FORK! and DO NOT CLONE TO ANOTHER NAME THAN nfs, OTHERWISE IT WILL DOESN'T WORK. kthx)
 ```
  git clone https://github.com/HafizZiq/NFS-x86 nfs && cd ~/nfs
  su
