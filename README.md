@@ -1,5 +1,9 @@
 # NFS instructions for x86
 
+## Requirements
+
+* [Termux](https://play.google.com/store/apps/details?id=com.termux)
+
 ## Steps
 
 * Clone the repo (DO NOT FORK! and DO NOT CLONE TO ANOTHER NAME THAN nfs, OTHERWISE IT WILL DOESN'T WORK. kthx)
