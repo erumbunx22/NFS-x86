@@ -6,6 +6,12 @@
 
 ## Steps
 
+* If You Already Cloned/Have nfs Folder, Then You Need To Remove It First
+```
+ su
+ rm -rf ~/nfs
+```
+
 * Clone the repo (DO NOT FORK! and DO NOT CLONE TO ANOTHER NAME THAN nfs, OTHERWISE IT WILL DOESN'T WORK. kthx)
 ```
  git clone https://github.com/HafizZiq/NFS-x86 nfs && cd ~/nfs
